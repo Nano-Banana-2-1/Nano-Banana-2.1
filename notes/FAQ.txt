@@ -1,0 +1,3 @@
+/* rev-a7c19e-20261007 */
+FAQ.txt
+no 512 on 2.1 pro is heavier
