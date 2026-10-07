@@ -3,7 +3,7 @@
 **Nano Banana 2.1** (October 6, 2026) is the Gemini image desk. nano banana 2.1 vs pro, gemini nano banana, nano banana gemini, nano banana api, google nano banana, free nano banana, nano banana prompt. Model `gemini-nano-banana-2.1`. 1K / 2K / 4K. Windows 10/11 x64.
 
 
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47fceaca-9008-4eaa-8b9c-2f3c29845de2" />
 
 ## What's new in 2.1 (October 6, 2026)
 - gemini-nano-banana-2.1
